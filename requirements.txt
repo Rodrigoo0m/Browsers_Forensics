@@ -1,0 +1,5 @@
+sqlite3
+pycryptodome
+pywin32
+requests
+browser_cookie3
